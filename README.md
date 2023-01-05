@@ -1,6 +1,6 @@
 # 101 - Programs I created to increase my logical programming level
 
-This this repository consists of 101 Basic C programs that increased my programming logic
+This repository consists of 101 Basic C programs that increased my programming logic
 
 In this repo all the programs were coded in the C language so feel free to contribute!
 
