@@ -6,7 +6,7 @@ In this repo all the programs were coded in the C language so feel free to contr
 
 # The C Programming Language
 
-so what is <a> C programming language </a> !?
+so what is <b> C programming language </b> !?
 
 <p>The C language is a high-level, general-purpose programming language. <br>It provides a straightforward, consistent, powerful interface for programming systems. 
 <br>That's why the C language is widely used for developing system software, application software, and embedded systems </p>
